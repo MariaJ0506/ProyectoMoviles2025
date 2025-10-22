@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AthleteSteps</string>
+    <string name="ErrorMsgAdd">Error al agregar el registro de entrenamiento</string>
+    <string name="ErrorMsgUpdate">Error al actualizar la información del progreso</string>
+    <string name="ErrorMsgRemove">Error al eliminar el dato seleccionado</string>
+    <string name="ErrorMsgGetAll">Error al obtener la lista de rutinas o ejercicios</string>
+    <string name="ErrorMsgGetById">Error al cargar la información solicitada</string>
+
+
+    //Estos que van aqui son mensajes infromativos y no de error.
+
+    <string name="MsgDataNoFound">No se encontraron datos registrados</string>
+    <string name="MsgGoalCompleted">¡Meta completada con éxito!</string>
+    <string name="MsgExerciseAdded">Ejercicio agregado correctamente</string>
+    <string name="MsgRoutineCreated">Rutina creada correctamente</string>
+    <string name="MsgProgressSaved">Progreso guardado exitosamente</string>
+
+</resources>

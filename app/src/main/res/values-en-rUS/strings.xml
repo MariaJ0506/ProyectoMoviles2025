@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AthleteSteps</string>
+    <string name="ErrorMsgAdd">Error adding training log</string>
+    <string name="ErrorMsgUpdate">Error updating progress information</string>
+    <string name="ErrorMsgRemove">Error deleting the selected data</string>
+    <string name="ErrorMsgGetAll">Error getting the list of routines or exercises</string>
+    <string name="ErrorMsgGetById">Error loading the requested information</string>
+    <string name="MsgDataNoFound">No recorded data found</string>
+    <string name="MsgGoalCompleted">Goal successfully completed!</string>
+    <string name="MsgExerciseAdded">Exercise added successfully</string>
+    <string name="MsgRoutineCreated">Successfully created routine</string>
+    <string name="MsgProgressSaved">Progress saved successfully</string>
+</resources>
